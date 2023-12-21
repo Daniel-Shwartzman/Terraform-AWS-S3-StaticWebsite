@@ -7,14 +7,13 @@ Creating an automation of creating and hosting a static website in AWS S3 bucket
 - Terraform
 - AWS
 - HTML
-- CSS
 
 
 
 ### Built With
 The project is built with Terraform:
 
-[![Terraform][Terraform]][Terraform-url] 
+[![Terraform][Terraform]][Terraform-url]   [![HTML5][HTML5]][HTML5-url]
 
 
 
@@ -78,3 +77,5 @@ terraform destroy
 <!-- MARKDOWN LINKS & IMAGES -->
 [Terraform]: https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&labelColor=black&logo=terraform&logoColor=623CE4
 [Terraform-url]: https://registry.terraform.io/
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: #

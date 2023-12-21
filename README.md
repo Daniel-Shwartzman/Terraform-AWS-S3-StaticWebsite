@@ -72,7 +72,7 @@ terraform destroy
 
 
 ### Architecture:
-![Screenshot](images/Serverless.PNG)
+![Screenshot](images/architecture.PNG)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

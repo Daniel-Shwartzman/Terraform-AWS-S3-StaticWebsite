@@ -39,7 +39,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/Daniel-Shwartzman/Terraform-AWS-S3-StaticWebsite.git
    cd Terraform-AWS-S3-StaticWebsite
-    ```
+   ```
 
 
 

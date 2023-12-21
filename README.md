@@ -11,7 +11,7 @@ Creating an automation of creating and hosting a static website in AWS S3 bucket
 
 
 ### Built With
-The project is built with Terraform:
+The project is built with Terraform, HTML:
 
 [![Terraform][Terraform]][Terraform-url]   [![HTML5][HTML5]][HTML5-url]
 
